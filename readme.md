@@ -1,7 +1,7 @@
 # README Markdown file
 
-[Useful Link][https://github.com/elemag1414/GitHub_VSCode/usefulLink.md]
-[ShortKey][https://github.com/elemag1414/GitHub_VSCode/shortkey.md]
+Useful Link: https://github.com/elemag1414/GitHub_VSCode/blob/master/usefulLink.md
+ShortKey: https://github.com/elemag1414/GitHub_VSCode/blob/master/shortkey.md
 
 # 2019-04-14
 일요일 오후는 항상 나른하고 차분해진다.
