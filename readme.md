@@ -16,9 +16,8 @@
 좀 애매한 시간이기도하고...
 
 이번주는 쉰다. :laughing: <br>
-
-<br><br>
-> [이모지콘 사용하기](https://www.emoji-cheat-sheet.com)  
+<br>
+> [이모지콘 사용하기](https://www.webfx.com/tools/emoji-cheat-sheet/)  
 
 <br>
 
@@ -31,7 +30,7 @@ import sys
 print('Hello world')
 ```
 <br>
->여러단의 리스트 추가하기
+> 여러단의 리스트 추가하기
 * 리스트 
     * 하위 리스트 
 
