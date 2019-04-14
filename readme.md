@@ -1,7 +1,7 @@
 # README Markdown file
 
-* Useful Link: https://github.com/elemag1414/GitHub_VSCode/blob/master/usefulLink.md
-* ShortKey: https://github.com/elemag1414/GitHub_VSCode/blob/master/shortkey.md
+* ![Useful Link] (https://github.com/elemag1414/GitHub_VSCode/blob/master/usefulLink.md)
+* ![ShortKey] (https://github.com/elemag1414/GitHub_VSCode/blob/master/shortkey.md)
 
 # 2019-04-14
 일요일 오후는 항상 나른하고 차분해진다.
@@ -15,6 +15,18 @@
 좀 애매한 시간이기도하고...
 
 이번주는 쉰다. ㅎㅎ
+
+>markdown style test
+```
+import os
+import sys
+
+print('Hello world')
+```
+
+* 리스트 
+    * 하위 리스트 
+
 
 TO-DO:
 1. Tensorflow Object Detection API 분석 (계속)
