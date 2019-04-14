@@ -36,8 +36,9 @@ TO-DO:
 - [x] 오늘은 뒹굴거리기
 
 * 테이블 테스트
+
 하나 | 둘 | 셋
 ----|---|---
- 1 | 2 | 3 
+ 1  | 2 | 3 
 
 ![그림 링크 테스트](http://www.sclance.com/pngs/animation-png/./animation_png_42992.png)
