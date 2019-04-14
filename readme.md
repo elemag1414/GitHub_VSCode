@@ -16,7 +16,7 @@
 
 이번주는 쉰다. ㅎㅎ
 
->markdown style test
+>hello_world.py
 ```
 import os
 import sys
