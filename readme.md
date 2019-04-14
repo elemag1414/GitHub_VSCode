@@ -21,15 +21,15 @@
 
 <br>
 
-> Code Snippet 삽입하기
->hello_world.py
+> Code Snippet 삽입하기 <br>
+> hello_world.py
 ```python
 import os
 import sys
 
 print('Hello world')
 ```
-<br>
+
 > 여러단의 리스트 추가하기
 * 리스트 
     * 하위 리스트 
