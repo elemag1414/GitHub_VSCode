@@ -1,12 +1,7 @@
 # README Markdown file
-This is an example of Markdown file.
-Since I'm not familiar with markdown format,
-I'll try some format test just for fun...
 
-Now, bullets can be created using esterisk (*)
-* bullet 1
-* bullet 2
-* bullet 3
+[Useful Link][https://github.com/elemag1414/GitHub_VSCode/usefulLink.md]
+[ShortKey][https://github.com/elemag1414/GitHub_VSCode/shortkey.md]
 
 # 2019-04-14
 일요일 오후는 항상 나른하고 차분해진다.
