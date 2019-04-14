@@ -18,7 +18,9 @@
 이번주는 쉰다. :laughing: <br>
 
 <br><br>
-> 이모지콘 사용하기 : ![여기](https://www.emoji-cheat-sheet.com)  <br>
+> [이모지콘 사용하기](https://www.emoji-cheat-sheet.com)  
+
+<br>
 
 > Code Snippet 삽입하기
 >hello_world.py
