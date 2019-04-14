@@ -17,7 +17,7 @@
 이번주는 쉰다. ㅎㅎ <br>
 
 >hello_world.py
-```
+```python
 import os
 import sys
 
