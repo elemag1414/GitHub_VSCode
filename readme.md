@@ -29,7 +29,8 @@ print('Hello world')
 
 
 TO-DO:
-1. Tensorflow Object Detection API 분석 (계속)
-2. Tensorflow Dataset Pipeline 만들기 Study
-3. Google Doc Tutorial Review
-4. 규격 문서 작성
+- [ ] Tensorflow Object Detection API 분석 (계속)
+- [ ] Tensorflow Dataset Pipeline 만들기 Study
+- [ ] Google Doc Tutorial Review
+- [ ] 규격 문서 작성
+- [x] 오늘은 뒹굴거리기
