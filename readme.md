@@ -1,4 +1,4 @@
-# README Markdown file
+# VSCode와 GitHub 연동하기 시험 프로젝트
 
 * [Useful Links](https://github.com/elemag1414/GitHub_VSCode/blob/master/usefulLink.md)
 * [Useful ShortKeys](https://github.com/elemag1414/GitHub_VSCode/blob/master/shortkey.md)
