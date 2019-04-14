@@ -14,7 +14,9 @@
 그렇다고 나가자니 
 좀 애매한 시간이기도하고...
 
-이번주는 쉰다. ㅎㅎ <br>
+이번주는 쉰다. :laughing: <br>
+
+https://www.emoji-cheat-sheet.com  <br>
 
 >hello_world.py
 ```python
